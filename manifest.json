@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nextlinkbilling",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "nextlink",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
